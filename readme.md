@@ -14,12 +14,12 @@ https://alphacephei.com/vosk/install
 https://hub.docker.com/r/alphacep/kaldi-ru
 
 #### Библиотеки:
-> asyncio, websockets, wave
+asyncio, websockets, wave
 
 #### Python:
-> \>= 3.13.3 (рекомендуется)
+\>= 3.13.3 (рекомендуется)
 
 #### Пример:
-> Файл `transcription.txt` в корне репозитория, до обработки Gemini
+Файл `transcription.txt` в корне репозитория, до обработки Gemini
 
-> Файл `refactored.md` после обработки Gemini 2.5 Pro, Preview 05-06
+Файл `refactored.md` после обработки Gemini 2.5 Pro, Preview 05-06
